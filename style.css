@@ -1,0 +1,25 @@
+body, aside {
+    background: #202028;
+    color: #fff;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+aside {
+    float: right;
+    font-size: 1em;
+}
+
+canvas {
+    border: solid .2em #fff;
+    height: 90vh;
+
+    padding: 0;
+    margin: auto;
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
