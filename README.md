@@ -1,7 +1,7 @@
 # Tetris
 
 ## About the project
-This project was built following [Meth Meth Method]'s(https://meth.js.org/) [tutorial]((https://www.youtube.com/watch?v=H2aW5V46khA) on Youtube.
+This project was built following [Meth Meth Method](https://meth.js.org/)'s [tutorial](https://www.youtube.com/watch?v=H2aW5V46khA) on Youtube.
 
 This is still a work-in-progess, new features coming soon.
 
